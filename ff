@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home page</title>
+</head>
+
+<body>
+
+    <head>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="info.html">Over ons</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </head>
+    <h1>
+        Welke programmeertalen leren je op het TCR?
+    </h1> <br>
+
+    <p>
+        Programmeertalen kun je opslitsen in frotend en backend. <strong>Frontend</strong> is alles wat je op je scherm
+        ziet verschijnen en <strong>backend</strong> is alles wat op de achtergrond draait. Voor beide richtingen zijn
+        er verschillende soorten talen
+    </p>
+
+    <section>
+
+        <h2>
+            Frontend programmeertalen
+        </h2>
+        <article>
+            <h3>
+                HTML
+            </h3>
+
+            <p>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis, natus. Corporis, non accusamus
+                expedita
+                perferendis ratione quaerat? Maiores, quidem a. Accusantium magnam nesciunt fugit beatae labore
+                repudiandae
+                quo
+                deleniti est!
+                <br>
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Obcaecati earum omnis repudiandae pariatur
+                necessitatibus vitae. Vitae inventore nam consequatur id minima eum atque, esse repudiandae rerum
+                suscipit
+                hic
+                ullam. Molestias.
+            </p>
+            <figure><img src="html5.png" alt="html foto" height="180" width="180">
+                <figcaption>HTML</figcaption>
+            </figure>
+        </article>
+        <article>
+            <h3>
+                CSS
+            </h3>
+
+
+            <p>
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et earum laudantium eos beatae nihil at?
+                Corporis
+                nisi omnis, tempore dolor distinctio sit quasi quas soluta, accusantium a velit eaque minus?
+            </p>
+            <p>
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus quas quis voluptatum saepe minima non,
+                iure
+                earum aliquid aspernatur ad consectetur totam quod accusantium fuga ratione ut eum officia obcaecati.
+            </p>
+            <figure><img src="css3.jpeg" alt="css3 foto" height="180" width="180">
+                <figcaption>CSS</figcaption>
+            </figure>
+
+        </article>
+        <article>
+            <h3>
+                JavaScript
+            </h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil reiciendis adipisci enim dicta nisi
+                numquam
+                et ipsa nostrum error nemo nesciunt, blanditiis quis similique nobis natus. Distinctio et reprehenderit
+                qui.
+            </p>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe alias itaque deleniti soluta, qui
+                corporis
+                doloribus aperiam laudantium natus dolores perferendis iusto fugiat quaerat beatae quidem magni odit
+                consequatur error.
+            </p>
+            <figure><img src="js.png" alt="JavaScript foto" height="180" width="180">
+                <figcaption>JavaScript</figcaption>
+            </figure>
+        </article>
+    </section>
+
+    <section>
+
+        <h2>
+            Backend programmeertalen
+        </h2>
+        <article>
+            <h3>
+                PHP
+            </h3>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quidem harum saepe aliquid vitae fuga corrupti
+                nemo
+                doloribus quia recusandae dolorem veniam facere, reiciendis ratione ipsa sapiente modi eligendi
+                dignissimos
+                nesciunt?</p>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Modi consequuntur incidunt fugiat veritatis.
+                Nesciunt ex nostrum ducimus blanditiis laudantium nobis, ea dolorem aspernatur voluptate, ullam,
+                delectus
+                autem similique at maxime?</p>
+            <figure><img src="php.png" alt="php foto" height="180" width="180">
+                <figcaption>PHP</figcaption>
+            </figure>
+        </article>
+        <article>
+            <h3>
+                MySQL
+            </h3>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quidem harum saepe aliquid vitae fuga corrupti
+                nemo
+                doloribus quia recusandae dolorem veniam facere, reiciendis ratione ipsa sapiente modi eligendi
+                dignissimos
+                nesciunt?</p>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Modi consequuntur incidunt fugiat veritatis.
+                Nesciunt ex nostrum ducimus blanditiis laudantium nobis, ea dolorem aspernatur voluptate, ullam,
+                delectus
+                autem similique at maxime?</p>
+            <figure><img src="mysql.png" alt="mysql foto" height="180" width="180">
+                <figcaption>MySQL</figcaption>
+            </figure>
+        </article>
+        <article>
+            <h3>
+                C#
+            </h3>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quidem harum saepe aliquid vitae fuga corrupti
+                nemo
+                doloribus quia recusandae dolorem veniam facere, reiciendis ratione ipsa sapiente modi eligendi
+                dignissimos
+                nesciunt?</p>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Modi consequuntur incidunt fugiat veritatis.
+                Nesciunt ex nostrum ducimus blanditiis laudantium nobis, ea dolorem aspernatur voluptate, ullam,
+                delectus
+                autem similique at maxime?</p>
+            <figure><img src="csharp.png" alt="C# foto" height="180" width="180">
+                <figcaption>C#</figcaption>
+            </figure>
+        </article>
+    </section>
+
+    <h3>
+        <i>Contact Gegevens</i>
+    </h3>
+    <address>
+        <i>Techniek College Rotterdam <br>
+            Sportlaan 15<br>
+            3202VW<br>
+            Spijkenisse<br>
+        </i>
+    </address>
+    <footer>Made by Julian</footer>
+
+</body>
+
+</html>
